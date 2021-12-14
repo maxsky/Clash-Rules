@@ -1,0 +1,4 @@
+payload:
+  - 'maplestory.beanfun.com'
+  - 'tw.beanfun.com'
+  - 'login.teamviewer.com'
